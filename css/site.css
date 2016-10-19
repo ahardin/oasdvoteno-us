@@ -1,0 +1,16 @@
+body{
+    font-size: 1.7em;
+}
+li {
+    list-style-position: outside;
+    padding-left: .2em;
+    margin-left: 1em;
+}
+/*
+li > ul > li{
+    margin-left:.5em;
+}*/
+
+h4, h5{
+    border-bottom: 1px solid #999;
+}
