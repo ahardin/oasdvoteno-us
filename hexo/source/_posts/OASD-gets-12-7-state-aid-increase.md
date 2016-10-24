@@ -7,9 +7,11 @@ You heard it here first, folks!
 
 Despite anticipating a decrease of up to 8% in state aid (per the OASD 2016 budget proposal), OASD is receiving an **increase of 12.7%**. That's *$1.19 million*! Technically it's $1,187,778, but seriously, who's counting?
 
-In a process so convoluted it could have only been devised by a massive bureaucracy, each year in mid-October the Wisconsin Department of Public Instruction (DPI) announces the amount of state aid each school district will receive. These numbers are now available.
+In a process so convoluted it could have only been devised by a massive bureaucracy, each year in mid-October the Wisconsin Department of Public Instruction (DPI) announces the amount of state aid each school district will receive. This years numbers are now available. As you can see, the numbers fluctuate wildly each year.
 
-This raises two things we should bear in mind.
+<img src="/images/oasd-state-aid-over-time.png" class="u-max-full-width" alt="State aid graphed over time" />
+
+This news raises two things we should bear in mind in the coming weeks and months.
 
 ## Property taxes
 There are more factors than just state aid, but, given this huge amount I would expect the property tax levy to decrease for 2016 (or 2017, depending on when the adjustment can be made). Property taxes increased in 2015 when state aid decreased by only 6%.
