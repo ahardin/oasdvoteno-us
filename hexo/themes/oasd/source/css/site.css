@@ -1,0 +1,63 @@
+body{
+    font-size: 1.7em;
+}
+li {
+    list-style-position: outside;
+    padding-left: .2em;
+    margin-left: 1em;
+}
+/*
+li > ul > li{
+    margin-left:.5em;
+}*/
+
+h4, h5{
+    border-bottom: 1px solid #999;
+}
+
+article header time{
+    font-size: .8em;
+}
+
+h1.article-title{
+    font-size: 3rem;
+    margin-bottom: 0;
+
+}
+
+.article-entry h2{
+    font-size:2.3rem;
+}
+  /*h1
+    font-size: 2em
+  h2
+    font-size: 1.5em
+  h3
+    font-size: 1.3em
+  h4
+    font-size: 1.2em
+  h5
+    font-size: 1em
+  h6
+    font-size: 1em
+    color: color-grey*/
+
+.article-meta{
+    margin-bottom:24px;
+}
+
+h2.header a{
+    text-decoration: none;
+    color:#222;
+}
+
+.article-type-post{
+    margin-top:48px;
+}
+.article-footer{
+    margin-top:8rem;
+}
+
+ul.nav{
+    list-style-type: none;
+}
