@@ -61,3 +61,12 @@ h2.header a{
 ul.nav{
     list-style-type: none;
 }
+
+blockquote{
+    font-size: 1.5rem;
+    border-left: #ccc solid 4px;
+    padding-left: 1rem;
+}
+blockquote p{
+    margin-bottom: 1rem;
+}
