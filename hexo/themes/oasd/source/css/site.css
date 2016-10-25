@@ -55,9 +55,21 @@ h2.header a{
     margin-top:48px;
 }
 .article-footer{
-    margin-top:8rem;
+    margin-top:6rem;
 }
 
 ul.nav{
     list-style-type: none;
+}
+
+blockquote{
+    font-size: 1.5rem;
+    border-left: #ccc solid 4px;
+    padding-left: 1rem;
+}
+blockquote p{
+    margin-bottom: 1rem;
+}
+#article-nav{
+    margin-bottom: 3rem;
 }

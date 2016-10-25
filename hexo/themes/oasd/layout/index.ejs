@@ -17,7 +17,7 @@
         News
         </h5>
 
-        <% site.posts.each(function(post, i){ %>
+        <% site.posts.sort('date', -1).each(function(post, i){ %>
             <article class="archive-article archive-type-<%= post.layout %>">
                 <div class="archive-article-inner">
                     <header class="archive-article-header">
@@ -30,11 +30,14 @@
         <% }) %>
     
         <h5>
-        Resources
+            About
         </h5>
         <p>
         This is a biased site, but it is not dishonest. Any factual errors are accidental. I have attempted to substantiate all objective claims with reliable information. 
         </p>
+        <h5>
+            Resources
+        </h5>
         <ul>
             <li>
             <a href="http://www.oasd.k12.wi.us/page.cfm?p=3387" target="_blank" title="Employee Handbook">Employee Handbooks (scroll down)</a>
@@ -65,7 +68,7 @@
         </ul>
 
         <h5>
-        You Should Also Know
+            You Should Also Know
         </h5>
         <ul>
         <li>
