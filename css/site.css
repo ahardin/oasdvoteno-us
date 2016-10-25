@@ -55,7 +55,7 @@ h2.header a{
     margin-top:48px;
 }
 .article-footer{
-    margin-top:8rem;
+    margin-top:6rem;
 }
 
 ul.nav{
@@ -69,4 +69,7 @@ blockquote{
 }
 blockquote p{
     margin-bottom: 1rem;
+}
+#article-nav{
+    margin-bottom: 3rem;
 }
