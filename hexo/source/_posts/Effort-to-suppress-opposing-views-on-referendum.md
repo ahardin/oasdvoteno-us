@@ -1,7 +1,20 @@
 ---
 title: OASD effort to suppress opposing views on referendum
 date: 2016-10-25 15:21:44
+updated: 2016-10-26 8:34:00
 tags:
+---
+
+**Update 1**
+
+At 8:15 Wednesday morning Roger Rindo called me and we spoke for 10 minutes or so. As usual we had a nice, polite conversation. Roger basically reiterated Kate's message regarding why the various actions were taken. He will also direct my ability to post on the page to be unblocked.
+
+I explained how, while it seemed a stretch, I could understand that the post was deleted because it broke a rule. But, blocking my ability to comment seemed like the "nuclear option" and smelled of additional motives. He said he was sorry I felt that way and that was basically it.
+
+That's where we're at. No real change in the narrative.
+
+**End Update**
+
 ---
 
 This is a big deal. 
