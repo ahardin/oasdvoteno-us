@@ -13,6 +13,10 @@ I explained how, while it seemed a stretch, I could understand that the post was
 
 That's where we're at. No real change in the narrative.
 
+**Update 2**
+
+I found many examples of past comments on the OASD Facebook page that contain links. This update got a little long so it is [in its own post here](/news/Numerous-OASD-Facebook-comments-containing-links).
+
 **End Update**
 
 ---
